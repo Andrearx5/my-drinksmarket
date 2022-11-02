@@ -1,12 +1,12 @@
-.message-greeting-container{
+.greeting-container{
     display: flex;
     justify-content: center;
     margin: 0 auto;
     margin-top: 50px;
     width: 50%;
     height: 170px;
-    background-color: rgb(181, 170, 243);
-    border-radius: 20px;
+    background-color: rgb(31, 27, 51);
+    border-radius: none;
 }
 
 .message{
